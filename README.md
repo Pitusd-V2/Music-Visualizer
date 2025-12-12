@@ -23,7 +23,7 @@ You need Python 3 installed. This project relies on the following libraries:
 
 1.  **Clone the repository** (or download the files):
     ```bash
-    git clone https://github.com/YOUR_USERNAME/visualizer.git
+    git clone https://github.com/Pitusd-V2/visualizer.git
     cd visualizer
     ```
 
@@ -53,3 +53,4 @@ You need Python 3 installed. This project relies on the following libraries:
 ## 📝 License
 
 This project is open source and available for free. Feel free to modify and share!
+
